@@ -11,7 +11,7 @@ export default function Home() {
 			justifyContent="center"
 			alignItems="center"
 		>
-			<h1>Saudi Fantasy League</h1>
+			<h1>JSONful</h1>
 		</Box>
 	)
 }
