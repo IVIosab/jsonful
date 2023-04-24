@@ -6,7 +6,7 @@
 			"team": "G2",
 			"role": "Top",
 			"score": 332,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 2,
@@ -14,7 +14,7 @@
 			"team": "G2",
 			"role": "Jungle",
 			"score": 333,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 3,
@@ -22,7 +22,7 @@
 			"team": "G2",
 			"role": "Mid",
 			"score": 258,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 4,
@@ -30,7 +30,7 @@
 			"team": "G2",
 			"role": "ADC",
 			"score": 347,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 5,
@@ -38,7 +38,7 @@
 			"team": "G2",
 			"role": "Support",
 			"score": 209,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 6,
@@ -46,7 +46,7 @@
 			"team": "FNC",
 			"role": "Top",
 			"score": 135,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 7,
@@ -54,7 +54,7 @@
 			"team": "FNC",
 			"role": "Jungle",
 			"score": 221,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 8,
@@ -62,7 +62,7 @@
 			"team": "FNC",
 			"role": "Mid",
 			"score": 236,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 9,
@@ -70,7 +70,7 @@
 			"team": "FNC",
 			"role": "ADC",
 			"score": 267,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 10,
@@ -78,7 +78,7 @@
 			"team": "FNC",
 			"role": "Support",
 			"score": 182,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 11,
@@ -86,7 +86,7 @@
 			"team": "KOI",
 			"role": "Top",
 			"score": 142,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 12,
@@ -94,7 +94,7 @@
 			"team": "KOI",
 			"role": "Jungle",
 			"score": 96,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 13,
@@ -102,7 +102,7 @@
 			"team": "KOI",
 			"role": "Mid",
 			"score": 172,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 14,
@@ -110,7 +110,7 @@
 			"team": "KOI",
 			"role": "ADC",
 			"score": 195,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 15,
@@ -118,7 +118,7 @@
 			"team": "KOI",
 			"role": "Support",
 			"score": 55,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 16,
@@ -126,7 +126,7 @@
 			"team": "MAD",
 			"role": "Top",
 			"score": 99,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 17,
@@ -134,7 +134,7 @@
 			"team": "MAD",
 			"role": "Jungle",
 			"score": 204,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 18,
@@ -142,7 +142,7 @@
 			"team": "MAD",
 			"role": "Mid",
 			"score": 147,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 19,
@@ -150,7 +150,7 @@
 			"team": "MAD",
 			"role": "ADC",
 			"score": 204,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 20,
@@ -158,7 +158,7 @@
 			"team": "MAD",
 			"role": "Support",
 			"score": 2,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 21,
@@ -166,7 +166,7 @@
 			"team": "SK",
 			"role": "Top",
 			"score": 100,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 22,
@@ -174,7 +174,7 @@
 			"team": "SK",
 			"role": "Jungle",
 			"score": 192,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 23,
@@ -182,7 +182,7 @@
 			"team": "SK",
 			"role": "Mid",
 			"score": 186,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 24,
@@ -190,7 +190,7 @@
 			"team": "SK",
 			"role": "ADC",
 			"score": 149,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 25,
@@ -198,7 +198,7 @@
 			"team": "SK",
 			"role": "Support",
 			"score": 92,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 26,
@@ -206,7 +206,7 @@
 			"team": "BDS",
 			"role": "Top",
 			"score": 183,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 27,
@@ -214,7 +214,7 @@
 			"team": "BDS",
 			"role": "Jungle",
 			"score": 308,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 28,
@@ -222,7 +222,7 @@
 			"team": "BDS",
 			"role": "Mid",
 			"score": 288,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 29,
@@ -230,7 +230,7 @@
 			"team": "BDS",
 			"role": "ADC",
 			"score": 394,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 30,
@@ -238,7 +238,7 @@
 			"team": "BDS",
 			"role": "Support",
 			"score": 202,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 31,
@@ -246,7 +246,7 @@
 			"team": "VIT",
 			"role": "Top",
 			"score": 276,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 32,
@@ -254,7 +254,7 @@
 			"team": "VIT",
 			"role": "Jungle",
 			"score": 335,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 33,
@@ -262,7 +262,7 @@
 			"team": "VIT",
 			"role": "Mid",
 			"score": 264,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 34,
@@ -270,7 +270,7 @@
 			"team": "VIT",
 			"role": "ADC",
 			"score": 415,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 35,
@@ -278,7 +278,7 @@
 			"team": "VIT",
 			"role": "Support",
 			"score": 261,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 36,
@@ -286,7 +286,7 @@
 			"team": "TH",
 			"role": "Top",
 			"score": 146,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 37,
@@ -294,7 +294,7 @@
 			"team": "TH",
 			"role": "Jungle",
 			"score": 265,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 38,
@@ -302,7 +302,7 @@
 			"team": "TH",
 			"role": "Mid",
 			"score": 203,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 39,
@@ -310,7 +310,7 @@
 			"team": "TH",
 			"role": "ADC",
 			"score": 288,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 40,
@@ -318,7 +318,7 @@
 			"team": "TH",
 			"role": "Support",
 			"score": 123,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 41,
@@ -326,7 +326,7 @@
 			"team": "AST",
 			"role": "Top",
 			"score": 164,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 42,
@@ -334,7 +334,7 @@
 			"team": "AST",
 			"role": "Jungle",
 			"score": 208,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 43,
@@ -342,7 +342,7 @@
 			"team": "AST",
 			"role": "Mid",
 			"score": 185,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 44,
@@ -350,7 +350,7 @@
 			"team": "AST",
 			"role": "ADC",
 			"score": 287,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 45,
@@ -358,7 +358,7 @@
 			"team": "AST",
 			"role": "Support",
 			"score": 150,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 46,
@@ -366,7 +366,7 @@
 			"team": "XL",
 			"role": "Top",
 			"score": 75,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 47,
@@ -374,7 +374,7 @@
 			"team": "XL",
 			"role": "Jungle",
 			"score": 67,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 48,
@@ -382,7 +382,7 @@
 			"team": "XL",
 			"role": "Mid",
 			"score": 69,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 49,
@@ -390,7 +390,7 @@
 			"team": "XL",
 			"role": "ADC",
 			"score": 146,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 50,
@@ -398,7 +398,7 @@
 			"team": "XL",
 			"role": "Support",
 			"score": 62,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		}
 	],
 	"coaches": [
@@ -407,70 +407,70 @@
 			"name": "Dylan Falco",
 			"team": "G2",
 			"score": 252,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 2,
 			"name": "Nightshare",
 			"team": "FNC",
 			"score": 178,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 3,
 			"name": "fredy122",
 			"team": "KOI",
 			"score": 148,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 4,
 			"name": "Mac",
 			"team": "MAD",
 			"score": 121,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 5,
 			"name": "Swiffer",
 			"team": "SK",
 			"score": 121,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 6,
 			"name": "GotoOne",
 			"team": "BDS",
 			"score": 320,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 7,
 			"name": "Carter",
 			"team": "VIT",
 			"score": 264,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 8,
 			"name": "Peter Dun",
 			"team": "TH",
 			"score": 128,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 9,
 			"name": "AOD",
 			"team": "AST",
 			"score": 199,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		},
 		{
 			"id": 10,
 			"name": "Hidon",
 			"team": "XL",
 			"score": 83,
-			"img": "shorturl.at/mrW17"
+			"img": "https://shorturl.at/mrW17"
 		}
 	]
 }

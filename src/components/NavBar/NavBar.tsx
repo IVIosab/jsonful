@@ -1,4 +1,4 @@
-import { Flex, HStack, Img, Spacer } from "@chakra-ui/react"
+import { Flex, HStack, Spacer } from "@chakra-ui/react"
 import NavItem from "./NavItem"
 import Image from "next/image"
 import lolIcon from "../../../public/lol.png"

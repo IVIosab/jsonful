@@ -2,6 +2,7 @@ import "@/styles/globals.css"
 import type { AppProps } from "next/app"
 import { ChakraProvider, extendTheme } from "@chakra-ui/react"
 import Layout from "@/components/UI/Layout"
+import useFirebaseSnapshot from "@/hooks/useFirebaseSnapshot"
 
 const theme = extendTheme({
 	colors: {
@@ -12,6 +13,7 @@ const theme = extendTheme({
 })
 
 export default function App({ Component, pageProps }: AppProps) {
+	useFirebaseSnapshot()
 	return (
 		<ChakraProvider theme={theme}>
 			<Layout>
