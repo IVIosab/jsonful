@@ -15,6 +15,7 @@ import {
 import { useAtom } from "jotai"
 import { GetServerSidePropsContext } from "next"
 import { useRouter } from "next/router"
+import Head from "next/head"
 
 export default function Comp(compData: compType) {
 	const [currentUser] = useAtom(currentUserAtom)
@@ -32,56 +33,71 @@ export default function Comp(compData: compType) {
 	}
 
 	return (
-		<VStack textColor="whiteAlpha.600" gap="20px" padding="20px">
-			<HStack alignSelf="start" w="full">
-				<Heading>
-					Comp #{compData.comp_id} by {compOwner}
-				</Heading>
-				<Spacer />
-				<IconButton
-					bg="none"
-					_hover={{}}
-					_active={{ color: "red.600" }}
-					aria-label="edit"
-					icon={<EditIcon w="40px" h="40px" />}
-					display={compOwner == "You" ? "block" : "none"}
-					onClick={handleClick}
+		<>
+			<Head>
+				<title>{compOwner} Composition</title>
+				<meta name="description" content="Single Composition" />
+				<meta property="og:title" content="Single Composition" />
+				<meta property="og:description" content="Single Composition" />
+				<meta
+					property="og:image"
+					content="https://jsonful.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flol.3567c0fc.png&w=48&q=75"
 				/>
-			</HStack>
+			</Head>
+			<VStack textColor="whiteAlpha.600" gap="20px" padding="20px">
+				<HStack alignSelf="start" w="full">
+					<Heading>
+						Comp #{compData.comp_id} by {compOwner}
+					</Heading>
+					<Spacer />
+					<IconButton
+						bg="none"
+						_hover={{}}
+						_active={{ color: "red.600" }}
+						aria-label="edit"
+						icon={<EditIcon w="40px" h="40px" />}
+						display={compOwner == "You" ? "block" : "none"}
+						onClick={handleClick}
+					/>
+				</HStack>
 
-			<Spacer />
-			<Grid
-				columnGap="10px"
-				rowGap="30px"
-				templateColumns="repeat(5, 1fr)"
-				templateRows="1fr auto"
-				w="full"
-			>
-				<PlayerItem
-					image_dimensions={100}
-					player_id={compData.top_id}
-				/>
-				<PlayerItem
-					image_dimensions={100}
-					player_id={compData.mid_id}
-				/>
-				<PlayerItem image_dimensions={100} player_id={compData.jg_id} />
-				<PlayerItem
-					image_dimensions={100}
-					player_id={compData.adc_id}
-				/>
-				<PlayerItem
-					image_dimensions={100}
-					player_id={compData.supp_id}
-				/>
-				<CoachItem
-					image_dimensions={100}
-					col_start={3}
-					grid_row={2}
-					coach_id={compData.coach_id}
-				/>
-			</Grid>
-		</VStack>
+				<Spacer />
+				<Grid
+					columnGap="10px"
+					rowGap="30px"
+					templateColumns="repeat(5, 1fr)"
+					templateRows="1fr auto"
+					w="full"
+				>
+					<PlayerItem
+						image_dimensions={100}
+						player_id={compData.top_id}
+					/>
+					<PlayerItem
+						image_dimensions={100}
+						player_id={compData.mid_id}
+					/>
+					<PlayerItem
+						image_dimensions={100}
+						player_id={compData.jg_id}
+					/>
+					<PlayerItem
+						image_dimensions={100}
+						player_id={compData.adc_id}
+					/>
+					<PlayerItem
+						image_dimensions={100}
+						player_id={compData.supp_id}
+					/>
+					<CoachItem
+						image_dimensions={100}
+						col_start={3}
+						grid_row={2}
+						coach_id={compData.coach_id}
+					/>
+				</Grid>
+			</VStack>
+		</>
 	)
 }
 

@@ -5,7 +5,6 @@ import { coachType } from "@/types/coachType"
 import { playerType } from "@/types/playerType"
 import { Flex } from "@chakra-ui/react"
 import { useAtom } from "jotai"
-import Head from "next/head"
 
 type Inputs = {
 	top: string
@@ -69,22 +68,6 @@ export default function NewComp() {
 
 	return (
 		<>
-			<Head>
-				<title>New Composition</title>
-				<meta
-					name="description"
-					content="Create a new team composition"
-				/>
-				<meta property="og:title" content="New Composition" />
-				<meta
-					property="og:description"
-					content="Create a new team composition"
-				/>
-				<meta
-					property="og:image"
-					content="https://jsonful.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flol.3567c0fc.png&w=48&q=75"
-				/>
-			</Head>
 			<CompForm onSubmit={handleSubmit} />
 		</>
 	)
