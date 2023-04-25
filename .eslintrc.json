@@ -2,6 +2,6 @@
 	"extends": ["prettier", "next/core-web-vitals"],
 	"plugins": ["prettier"],
 	"rules": {
-		"prettier/prettier": ["warn"] //TODO change to error
+		"prettier/prettier": ["error"]
 	}
 }

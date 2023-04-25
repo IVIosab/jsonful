@@ -70,27 +70,27 @@ export default function Comp(compData: compType) {
 					w="full"
 				>
 					<PlayerItem
-						image_dimensions={100}
+						image_dimensions={200}
 						player_id={compData.top_id}
 					/>
 					<PlayerItem
-						image_dimensions={100}
+						image_dimensions={200}
 						player_id={compData.mid_id}
 					/>
 					<PlayerItem
-						image_dimensions={100}
+						image_dimensions={200}
 						player_id={compData.jg_id}
 					/>
 					<PlayerItem
-						image_dimensions={100}
+						image_dimensions={200}
 						player_id={compData.adc_id}
 					/>
 					<PlayerItem
-						image_dimensions={100}
+						image_dimensions={200}
 						player_id={compData.supp_id}
 					/>
 					<CoachItem
-						image_dimensions={100}
+						image_dimensions={200}
 						col_start={3}
 						grid_row={2}
 						coach_id={compData.coach_id}
