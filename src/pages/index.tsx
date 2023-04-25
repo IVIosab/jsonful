@@ -18,7 +18,7 @@ export default function Home() {
 				h="full"
 				w="full"
 				textColor="whiteAlpha.600"
-				fontSize="4xl"
+				fontSize="7xl"
 				display="flex"
 				justifyContent="center"
 				alignItems="center"

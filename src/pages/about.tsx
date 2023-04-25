@@ -18,13 +18,20 @@ export default function About() {
 				h="full"
 				w="full"
 				textColor="whiteAlpha.600"
-				fontSize="xl"
+				fontSize="2xl"
 				display="flex"
 				justifyContent="center"
 				alignItems="center"
+				padding="100px"
 			>
-				<Flex direction="column" gap="20px">
-					<h1>Welcome to JSONful</h1>
+				<Flex
+					direction="column"
+					gap="20px"
+					justifyContent="center"
+					alignItems="center"
+				>
+					<h1>JSONful</h1>
+					<br />
 					<p>
 						A user-friendly website designed to help fans of the LEC
 						SuperFantasy visualize data and make informed decisions
