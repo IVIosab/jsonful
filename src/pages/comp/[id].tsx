@@ -36,9 +36,16 @@ export default function Comp(compData: compType) {
 		<>
 			<Head>
 				<title>{compOwner} Composition</title>
-				<meta name="description" content="Single Composition" />
-				<meta property="og:title" content="Single Composition" />
-				<meta property="og:description" content="Single Composition" />
+				<meta name="description" content={compOwner + "Composition"} />
+				<meta property="og:title" content={compOwner + "Composition"} />
+				<meta
+					property="og:description"
+					content={
+						compOwner +
+						"Composition, with compId:" +
+						compData.comp_id
+					}
+				/>
 				<meta
 					property="og:image"
 					content="https://jsonful.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flol.3567c0fc.png&w=48&q=75"
