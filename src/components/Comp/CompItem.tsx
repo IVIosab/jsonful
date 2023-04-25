@@ -36,12 +36,12 @@ export default function CompItem(props: { compData: compType }) {
 					<PlayerItem
 						player_id={player_id}
 						key={player_id}
-						image_dimensions={50}
+						image_dimensions={70}
 					/>
 				))}
 				<CoachItem
 					coach_id={compCoach}
-					image_dimensions={50}
+					image_dimensions={70}
 					col_start={7}
 					grid_row={1}
 				/>

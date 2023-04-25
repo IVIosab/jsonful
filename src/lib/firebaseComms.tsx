@@ -45,10 +45,6 @@ export async function updateItem(newValues: compType) {
 export async function addItem(newValues: Omit<compType, "comp_id">) {
 	const db = getFirestore(app)
 
-	// const docValues = Object.fromEntries(
-	// 	Object.entries(newValues).filter(([key]) => key != "id")
-	// )
-
 	return addDoc(collection(db, "comps"), newValues).then(() => {
 		return
 	})
